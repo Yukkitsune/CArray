@@ -1,0 +1,10 @@
+First CArr: capacity 5 --> 1 2 2 5 7 
+Second CArr: capacity 5 --> 2 2 5 5 7 
+Summation of CArrs: capacity 4 --> 2 2 5 7 
+Random CArr: capacity 5 --> 40 56 76 87 88 
+Prefix increment of CArr: capacity 5 --> 41 57 77 88 89 
+Postfix increment of CArr: capacity 5 --> 42 58 78 89 90 
+Prefix decrement of CArr: capacity 5 --> 41 57 77 88 89 
+Postfix decrement of CArr: capacity 5 --> 40 56 76 87 88 
+Duble the last element: capacity 6 --> 40 56 76 87 88 88 
+Delete the last element: capacity 5 --> 40 56 76 87 88 
